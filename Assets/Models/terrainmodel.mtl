@@ -1,0 +1,46 @@
+# Blender MTL File: 'teksturertbedreeksempelmodell.blend'
+# Material Count: 4
+
+newmtl EarthTextureMaterial
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.295121 0.048366
+Ks 0.500000 0.500000 0.500000
+Ke 0.040000 0.018445 0.003023
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\earth-texture.jpg
+
+newmtl GrassTextureMaterial
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.073504 0.800000 0.005915
+Ks 0.500000 0.500000 0.500000
+Ke 0.004594 0.050000 0.000370
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/grass-texture.jpeg
+
+newmtl MagmaTextureMaterial
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.050990 0.012098
+Ks 0.500000 0.500000 0.500000
+Ke 0.040000 0.003187 0.000756
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\magma-texture.jpg
+
+newmtl RockTextureMaterial
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.106287 0.106287 0.106287
+Ks 0.446804 0.469635 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\rock-texture.jpg
